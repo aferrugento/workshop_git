@@ -1,1 +1,1 @@
-print "Hello World cenas"
+print "O Tiago é um deficiente mental"
